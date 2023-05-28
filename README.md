@@ -1,4 +1,4 @@
-## Hi there! This is your Jay speaking 👋
+# Hi there! This is your "Jay" speaking 👋
 
 <div><h2>Tech Stack</h2></div>
 <div align=center>
