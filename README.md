@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Undergraduate Courseworks
+## Undergraduate Classes
 <div align=center>
 
 |Semester|Lecture Name|
