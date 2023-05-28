@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! This is your Jay speaking 👋
 
 <!--
 **bestfourteen14/bestfourteen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 ## Undergraduate Courseworks
+<div align=center>
+
 |Semester|Lecture Name|Lecture Name in English|
 |:------------:|:---------------:|:--------------------------------:|
 |2020&nbsp;1st sem|컴퓨터논리개론|Introduction to Computer Logic|
@@ -28,4 +29,4 @@ Here are some ideas to get you started:
 |2023&nbsp;1st sem|운영체제|Operating System|
 |2023&nbsp;1st sem|알고리즘|Algorithm|
 |2023&nbsp;1st sem|데이터사이언스|Data Science|
--->
+</div>
