@@ -51,4 +51,7 @@ Here are some ideas to get you started:
 |2023&nbsp;1st sem |Operating System|
 |2023&nbsp;1st sem |Algorithm|
 |2023&nbsp;1st sem |Data Science|
+|2023&nbsp;2nd sem |Computer Network|
+|2023&nbsp;2nd sem |Database System|
+
 </div>
