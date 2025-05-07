@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 |2023&nbsp;1st sem |Data Science|
 |2023&nbsp;2nd sem |Computer Network|
 |2023&nbsp;2nd sem |Database System|
-|2024&nbsp;2nd sem |Trustworthy AI: Fairness, Interpretability and Privacy from JGU Mainz|
-|2024&nbsp;2nd sem |Topics in Functional Programming from JGU Mainz|
+|2024&nbsp;2nd sem |Trustworthy AI: Fairness, Interpretability and Privacy(from JGU Mainz)|
+|2024&nbsp;2nd sem |Topics in Functional Programming(from JGU Mainz)|
 
 </div>
