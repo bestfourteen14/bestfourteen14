@@ -18,9 +18,9 @@
 <div><h3>Description</h3></div>
 - 🌱 I’m currently learning Python and Django(&DRF) and also JAVA, to use Spring boot.
 <br>
-- 💻 I once created a simple web page using HTML and CSS, and the results can be found in the LIKELION-HUFS-11th > LIONKING repository in my profile - Organizations. I'm not good at using it.
+- 💻 I once created a simple web page using HTML and CSS, and the results can be found in the LIKELION-HUFS-11th > LIONKING repository in my profile - Organizations. I'm not good at using it.🫢
 <br>
-- 💡 Pandas used it for a data science lecture assignment. After tweaking the project deliverables in DACON a little bit, we added our own new code to do the project (but I think data science is a bit boring...☹️)
+- 💡 Pandas used it for a data science lecture assignment. After tweaking the project deliverables in DACON a little bit, we added our own new code to do the project (but, I guess "data science" is a bit boring...☹️)
 
 <!--
 **bestfourteen14/bestfourteen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
