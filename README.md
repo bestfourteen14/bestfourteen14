@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 |2023&nbsp;2nd sem |Database System|
 |2024&nbsp;2nd sem |Trustworthy AI: Fairness, Interpretability and Privacy(from JGU Mainz)|
 |2024&nbsp;2nd sem |Topics in Functional Programming(from JGU Mainz)|
-|2025&nbsp;1nd sem |Capstone Design|
 |2025&nbsp;1nd sem |Computer Mathematics|
+|2025&nbsp;1nd sem |Capstone Design|
 
 </div>
