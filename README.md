@@ -1,8 +1,8 @@
 # Hi there! This is your "Jay" speaking 👋
 
 <div><h2>Tech Stack</h2></div>
+![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <div align=center>
-  ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
   
