@@ -13,6 +13,7 @@
   
   <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/JIRA-0052CC.svg?&style=for-the-badge&logo=JIRA&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">  
   <br>
